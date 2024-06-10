@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|d:\\mapel kelas 11 semester 2\\mk2\\s2\\beablies\\beablies\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\sampleadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\report\\billrpt.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\report\\billrpt.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|d:\\mapel kelas 11 semester 2\\mk2\\s2\\beablies\\beablies\\report\\frmsalebycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\report\\frmsalebycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\frmprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\frmprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|d:\\mapel kelas 11 semester 2\\mk2\\s2\\beablies\\beablies\\report\\frmsalebycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\report\\frmsalebycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|d:\\mapel kelas 11 semester 2\\mk2\\s2\\beablies\\beablies\\report\\rptsalebycategory.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\report\\rptsalebycategory.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|d:\\mapel kelas 11 semester 2\\mk2\\s2\\beablies\\beablies\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\model\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\view\\frmreportcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\view\\frmreportcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\view\\frmreportcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\view\\frmreportcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\report\\rptstaff.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\report\\rptstaff.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EBDF03-8FC4-4B5D-8AA6-8AC82762E87F}|beablies\\beablies.csproj|solutionrelative:beablies\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\MainClass.cs",
+              "RelativeDocumentMoniker": "beablies\\MainClass.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\MainClass.cs",
+              "RelativeToolTip": "beablies\\MainClass.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwA8AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T12:11:14.53Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Program.cs",
+              "RelativeDocumentMoniker": "beablies\\Program.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Program.cs",
+              "RelativeToolTip": "beablies\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAcwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:26:30.849Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SampleAdd.cs [Design]",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\SampleAdd.cs",
+              "RelativeDocumentMoniker": "beablies\\SampleAdd.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\SampleAdd.cs [Design]",
+              "RelativeToolTip": "beablies\\SampleAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:10:40.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "rptsalebycategory.rpt",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\rptsalebycategory.rpt",
+              "RelativeDocumentMoniker": "beablies\\Report\\rptsalebycategory.rpt",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\rptsalebycategory.rpt",
+              "RelativeToolTip": "beablies\\Report\\rptsalebycategory.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-26T00:14:41.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmsalebycategory.cs [Design]",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\frmsalebycategory.cs",
+              "RelativeDocumentMoniker": "beablies\\Report\\frmsalebycategory.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\frmsalebycategory.cs [Design]",
+              "RelativeToolTip": "beablies\\Report\\frmsalebycategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:01:28.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmBillList.cs",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Model\\frmBillList.cs",
+              "RelativeDocumentMoniker": "beablies\\Model\\frmBillList.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Model\\frmBillList.cs",
+              "RelativeToolTip": "beablies\\Model\\frmBillList.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADgv0kAAAC1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T23:22:02.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "rptStaff.rpt",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\rptStaff.rpt",
+              "RelativeDocumentMoniker": "beablies\\Report\\rptStaff.rpt",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\rptStaff.rpt",
+              "RelativeToolTip": "beablies\\Report\\rptStaff.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-25T23:25:56.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmReportcs.cs",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\View\\frmReportcs.cs",
+              "RelativeDocumentMoniker": "beablies\\View\\frmReportcs.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\View\\frmReportcs.cs",
+              "RelativeToolTip": "beablies\\View\\frmReportcs.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAArwDUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T16:20:47.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "billrpt.rpt",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\billrpt.rpt",
+              "RelativeDocumentMoniker": "beablies\\Report\\billrpt.rpt",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\billrpt.rpt",
+              "RelativeToolTip": "beablies\\Report\\billrpt.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-05-25T23:28:37.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmBillList.cs [Design]",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Model\\frmBillList.cs",
+              "RelativeDocumentMoniker": "beablies\\Model\\frmBillList.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Model\\frmBillList.cs [Design]",
+              "RelativeToolTip": "beablies\\Model\\frmBillList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T03:54:47.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmReportcs.cs [Design]",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\View\\frmReportcs.cs",
+              "RelativeDocumentMoniker": "beablies\\View\\frmReportcs.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\View\\frmReportcs.cs [Design]",
+              "RelativeToolTip": "beablies\\View\\frmReportcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T15:22:35.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPrint.cs [Design]",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\frmPrint.cs",
+              "RelativeDocumentMoniker": "beablies\\frmPrint.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\frmPrint.cs [Design]",
+              "RelativeToolTip": "beablies\\frmPrint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T13:09:37.589Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "1fcc6c06-f44e-49e1-8c94-d8be2d78bcb6",
+        "Display": 0,
+        "X": 316,
+        "Y": 67,
+        "Width": 1213,
+        "Height": 551,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmsalebycategory.cs",
+              "DocumentMoniker": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\frmsalebycategory.cs",
+              "RelativeDocumentMoniker": "beablies\\Report\\frmsalebycategory.cs",
+              "ToolTip": "D:\\MAPEL KELAS 11 Semester 2\\MK2\\S2\\beablies\\beablies\\Report\\frmsalebycategory.cs",
+              "RelativeToolTip": "beablies\\Report\\frmsalebycategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T00:12:31.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
